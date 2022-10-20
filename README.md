@@ -1,5 +1,5 @@
 <center>
-<h1>  HTML, CSS, and Javascript for Web Developers <br> <h3>Johns Hopkins University - Coursera</h3></h1>
+<h3> My answers in HTML, CSS, and Javascript for Web Developers by Johns Hopkins University - Coursera</h3>
 </center>
 
 <h2> <b>Assignments </b> </h2>
